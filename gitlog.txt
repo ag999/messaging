@@ -1,0 +1,294 @@
+commit 9821075a2bbd4d03eaa9922d69597ac18693cd49
+Merge: b539e8d 63a8a2c
+Author: ag999 <ag999@cornell.edu>
+Date:   Tue May 15 15:55:32 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/ab2248/3110Final
+
+commit b539e8dfb1a0433bff0e87d6cd28e1238104930a
+Author: ag999 <ag999@cornell.edu>
+Date:   Tue May 15 15:55:25 2018 -0400
+
+    final test cases
+
+commit 63a8a2ccf9ca2df26e9f6e1e111e2559efe8dd54
+Merge: 3fbfde4 947a3c1
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Tue May 15 15:44:01 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/ab2248/3110Final
+
+commit 3fbfde49e4aefd57e8bee177f4e5830cd181e044
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Tue May 15 15:43:56 2018 -0400
+
+    Added README
+
+commit 947a3c13a34bc4a6e4b35e8fd6792357ed0e536c
+Author: ag999 <ag999@cornell.edu>
+Date:   Tue May 15 15:26:28 2018 -0400
+
+    more test
+
+commit b3b29b03a8133eda4e747e0d2ff8c1b22de16d07
+Author: ag999 <ag999@cornell.edu>
+Date:   Tue May 15 15:08:51 2018 -0400
+
+    try the raises test case
+
+commit 3514aadfadfd8c40627949112cba3c004f0c9c65
+Author: ag999 <ag999@cornell.edu>
+Date:   Tue May 15 15:02:28 2018 -0400
+
+    Added some tests
+
+commit 42cd02064da4effa5d611cf855b64001edc39e78
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Tue May 15 14:53:59 2018 -0400
+
+    Fixed //leave when not in a chat
+
+commit fea94773f53372ff0e922d6de4fc557d720699e5
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Tue May 15 14:41:46 2018 -0400
+
+    Cleaned up code in client.ml
+
+commit aa2731fd3ea2303429d96a122d446ed8036c74ef
+Merge: 8b62323 8c054b1
+Author: ag999 <ag999@cornell.edu>
+Date:   Tue May 15 14:35:28 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/ab2248/3110Final
+
+commit 8b62323e076f3ac57b149356901b595d740eb1ba
+Author: ag999 <ag999@cornell.edu>
+Date:   Tue May 15 14:35:24 2018 -0400
+
+    RSA with mli file
+
+commit 8c054b184def7df9b6ae9584ccee36eacfdfc5ec
+Merge: fccb9ca 0a335d9
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Tue May 15 14:28:03 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/ab2248/3110Final
+
+commit fccb9ca5cd82a96195f7a0c99632a4d5afbe2aee
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Tue May 15 14:27:59 2018 -0400
+
+    Created server.mli and cleaned up code in server.ml
+
+commit 0a335d9af7fe22af1d81e7aecdd87e6efff1a716
+Author: nandini269 <nn269@cornell.edu>
+Date:   Tue May 15 14:17:52 2018 -0400
+
+    added mli file
+
+commit d230ac5dfff5efcd6e611298ec5fcaf3a71a4c06
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Tue May 15 13:25:35 2018 -0400
+
+    Fixed encryption/decryption
+
+commit 7ad28020c4ee1713f1e4304eecbe859335646e63
+Author: ag999 <ag999@cornell.edu>
+Date:   Tue May 15 12:08:17 2018 -0400
+
+    hate merges
+
+commit c00c0b0a29563fbbe29963758efb8b8b83352c49
+Merge: ecd6c7a 24b071f
+Author: ag999 <ag999@cornell.edu>
+Date:   Tue May 15 12:07:38 2018 -0400
+
+    fixed
+
+commit ecd6c7a1373beac08f7e672045edf41ee99b729e
+Author: ag999 <ag999@cornell.edu>
+Date:   Tue May 15 12:07:19 2018 -0400
+
+    fixed
+
+commit ff28448b1cd460f5f57470e22fcf39abb38f3c3f
+Author: ag999 <ag999@cornell.edu>
+Date:   Tue May 15 12:05:55 2018 -0400
+
+    fixed
+
+commit 69af3624aece6a05fd972a74ff7c1a2feddd1e13
+Author: ag999 <ag999@cornell.edu>
+Date:   Tue May 15 12:05:07 2018 -0400
+
+    fixed i think
+
+commit c5e82e617bf8aa3486b855cccd03e076bc3d226e
+Author: ag999 <ag999@cornell.edu>
+Date:   Tue May 15 12:03:52 2018 -0400
+
+    fixed i think
+
+commit 24b071fa7b5a000563736889abb5d8370aa22596
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Tue May 15 11:27:28 2018 -0400
+
+    Everything should work if RSA is fixed
+
+commit c8f0124b23021acd31d63c4722f9f5f67a173b1b
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Mon May 14 23:14:26 2018 -0400
+
+    Added invalid command detection and tried to included encryption
+
+commit ab7798736828ebd967eb571674e089f41f54d896
+Author: ag999 <ag999@cornell.edu>
+Date:   Mon May 14 22:31:31 2018 -0400
+
+    Fixed the open Z issue
+
+commit 275b531611ff58e6a3a6d1f9cae496b1feee8a23
+Author: ag999 <ag999@cornell.edu>
+Date:   Mon May 14 22:30:30 2018 -0400
+
+    Fixed the open Z issue
+
+commit 37268861522fb8d079e0ae0f2591625ce70cbe02
+Merge: 2d8240c 4105789
+Author: ag999 <ag999@cornell.edu>
+Date:   Mon May 14 22:09:10 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/ab2248/3110Final
+
+commit 2d8240cd937f0059f5d6a56dd5d10eb5b32eac32
+Author: ag999 <ag999@cornell.edu>
+Date:   Mon May 14 22:08:09 2018 -0400
+
+    changed names
+
+commit 6d8216b8aeefd8fedec2120c6e40ca43a4e0730d
+Author: ag999 <ag999@cornell.edu>
+Date:   Mon May 14 21:59:18 2018 -0400
+
+    RSA works
+
+commit 41057897c285de60d74aa64d6975e07142f19059
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Mon May 14 21:37:09 2018 -0400
+
+    Added list_blocked command
+
+commit cf6dac6afcb0fd4f21c3df78477feb65932b7e4c
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Mon May 14 21:26:33 2018 -0400
+
+    Got blocking and quitting to work
+
+commit fccd690354174a91cffd76278ce49db488833452
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Mon May 14 20:12:30 2018 -0400
+
+    minor changes
+
+commit 13f5e64e00f9c4c8e33cf51687b85e64c8070411
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Mon May 14 19:43:25 2018 -0400
+
+    Only sends notifications of ppl leaving from within chats
+
+commit ba5d1e7db3c93c7404d4aa438266b1b18a524eef
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Mon May 14 14:19:12 2018 -0400
+
+    Now you only receive messages from the person in the chat with you
+
+commit 9225aed85df273e2c8e42d86cdc4d13f7478f5b8
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Mon May 14 13:53:55 2018 -0400
+
+    able to leave and re-enter chats
+
+commit b642359fcfd098c963f71221cd6c753a67ee4b41
+Merge: c86538d 9d4cb76
+Author: ag999 <ag999@cornell.edu>
+Date:   Sun May 13 18:33:25 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/ab2248/3110Final
+
+commit c86538d8aefd422b851b11cf3a527c21e9035cca
+Author: ag999 <ag999@cornell.edu>
+Date:   Sun May 13 18:32:54 2018 -0400
+
+    Need to change integers to something to prevent overflow
+
+commit 9d4cb767dd0c31878f2dcda0e7c86b914c0457c8
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Sun May 13 17:26:53 2018 -0400
+
+    Only lets you connect to someone who's available to chat
+
+commit 750548b61c71a415eeda04c1a524a67f87bd0d92
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Sun May 13 16:12:05 2018 -0400
+
+    Dealt with users quitting the chat
+
+commit e1a587ef1aa180dfed21bfaab22572c404330baf
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Sat May 12 16:48:24 2018 -0400
+
+    Create your own username
+
+commit a498004b079e17aa57315e290749db954618b01a
+Author: Arshi Bhatnagar <Arshi@macbook-pro-5.home>
+Date:   Tue May 1 18:27:00 2018 -0400
+
+    added comments
+
+commit 0bfced7eb650fb7a07e0fea5b9dbcedef40731c9
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Tue May 1 01:48:59 2018 -0400
+
+    Fixed new line error
+
+commit 915f5b4ff755d5ddcb3227c4de80c558e211edab
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Tue May 1 01:05:09 2018 -0400
+
+    Two clients connected successfully, but need to fix spaces between lines
+
+commit 00fe729618546e467ac9746ccde24ec7bc9b33da
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Tue May 1 00:04:29 2018 -0400
+
+    Got client to display welcome message
+
+commit 1c8d318761b4ad467781eaa6b7bbf002019a5a20
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Mon Apr 30 23:49:18 2018 -0400
+
+    Client and server first draft
+
+commit e3fc73703bc14ae751eb1f8cd816f277ffbdbc9a
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Sun Apr 29 16:20:34 2018 -0400
+
+    Our attempt at a server with 2 clients. Not working atm...
+
+commit 5215b4c82d6d2b2a524d6c49893479b9c84b3555
+Author: fletchapin <fletchapin@gmail.com>
+Date:   Thu Apr 26 20:43:14 2018 -0400
+
+    server and client connection with text input from client
+
+commit 45657ce0b3993462b0286a51f5c998fb61a13b55
+Author: ag999 <ag999@cornell.edu>
+Date:   Sat Apr 21 13:48:37 2018 -0400
+
+    Added gitignore
+
+commit 5341b50df5165be808bd8da014b8efd6b2b0d113
+Author: Arshi Bhatnagar <ab2248@cornell.edu>
+Date:   Sat Apr 21 13:41:54 2018 -0400
+
+    Initial commit
